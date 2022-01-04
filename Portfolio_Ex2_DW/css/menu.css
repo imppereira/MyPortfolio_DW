@@ -1,0 +1,72 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    color: #FFFFFF;
+
+    width: 100vw;
+    height: 100vh;
+
+    cursor: none;
+}
+.cursor {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    transition: width 0.2s, height 0.2s;
+}
+
+#menu{
+position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+width: 100%;
+}
+#about, #behance, #linkedin, #email {
+    height: 7vh;
+    margin: auto;
+    display: block;
+    margin-bottom: 10vh;
+    width: 100%;
+    cursor: none;
+}
+#email{
+    margin-bottom: 0;
+}
+
+.st0 {
+    fill: none;
+}
+
+.st1 {
+    fill: #FFFFFF;
+}
+
+.st2 {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.st3 {
+    font-size: 300px;
+}
+
+.st4 {
+    fill: #E9B3E9;
+}
+@media only screen and (max-width: 768px) and (max-height: 632px) {
+    body {
+        cursor: auto;
+    }
+
+    .cursor {
+        display: none;
+    }
+}

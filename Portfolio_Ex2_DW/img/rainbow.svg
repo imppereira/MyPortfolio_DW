@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 362 183">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7{fill:none;stroke-miterlimit:10;stroke-width:10px;}.cls-1{stroke:#e9b3e9;}.cls-2{stroke:#9772b3;}.cls-3{stroke:#7272f2;}.cls-4{stroke:#72b272;}.cls-5{stroke:#f2f272;}.cls-6{stroke:#f2c472;}.cls-7{stroke:#f27272;}
+        </style>
+    </defs>
+    <g id="rainbow">
+        <g id="rosa">
+            <path class="cls-1" d="M155.77,181.86a25,25,0,0,1,50,0"/>
+        </g>
+        <g id="roxo">
+            <path class="cls-2" d="M130.77,181.81a50,50,0,0,1,100,0"/>
+        </g>
+        <g id="azul">
+            <path class="cls-3" d="M105.77,181.77a75,75,0,1,1,150,0"/>
+        </g>
+        <g id="verde">
+            <path class="cls-4" d="M80.77,181.72a100,100,0,1,1,200,0"/>
+        </g>
+        <g id="amarelo">
+            <path class="cls-5" d="M55.77,181.67a125,125,0,0,1,250,0"/>
+        </g>
+        <g id="laranja">
+            <path class="cls-6" d="M30.77,181.63a150,150,0,0,1,300,0"/>
+        </g>
+        <g id="vermelho">
+            <path class="cls-7" d="M6,181.58a175,175,0,0,1,350,0"/>
+        </g>
+    </g>
+</svg>
